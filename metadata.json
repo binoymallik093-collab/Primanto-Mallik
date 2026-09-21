@@ -1,0 +1,6 @@
+{
+  "name": "Dhaka University Tuition & Tutors Media",
+  "description": "Educational and tuition platform connecting students and parents with qualified, verified tutors from Dhaka University and top institutions across Dhaka for home tuition, online classes, SSC, HSC, and university admission preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
